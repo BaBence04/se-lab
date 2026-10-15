@@ -15,6 +15,7 @@ public class TorpedoStore {
   private int torpedoCount = 0;
 
   private Random generator = new Random();
+  //How do billboards talk? Sign language.
 
   public TorpedoStore(int numberOfTorpedos){
     this.torpedoCount = numberOfTorpedos;
